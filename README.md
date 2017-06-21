@@ -1,4 +1,5 @@
 # taskt01JS
 
-Task01 - HomeWork;\n
+Task01 - HomeWork;
+-----------------
 Repeat: приведение типов, try ... catch;
